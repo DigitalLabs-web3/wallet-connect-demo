@@ -1,0 +1,30 @@
+# Node dependencies
+node_modules/
+# Yarn
+.yarn/
+yarn.lock
+# npm
+package-lock.json
+# Expo
+.expo/
+# Metro
+.expo-shared/
+# macOS
+.DS_Store
+# Xcode
+ios/Pods/
+ios/build/
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata
+# Android
+android/.gradle/
+android/app/build/
+# VSCode
+.vscode/
+# Logs
+*.log
+# Test coverage
+coverage/
+# Misc
+.env
